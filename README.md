@@ -21,3 +21,9 @@ This project showcases my **advanced Power BI skills**, covering the full workfl
 - Combines **multiple data sources**, optimized calculations, and user-driven filters  
 - Reflects a **hands-on, end-to-end approach** to advanced Power BI analytics  
 
+## 📄 Project File  
+
+👉 [Click here to view/download the Excel Dashboard](https://github.com/Divit-Lamba/Power-BI-Project/blob/main/Power%20BI%20Project.pbix)
+
+### Preview  
+[![PDF Preview](file:///C:/Users/Admin/Desktop/DA/POWER%20BI/PROJECT%201(UDEMY)/project%201%20pdf.pdf)
