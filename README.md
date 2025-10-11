@@ -23,4 +23,4 @@ This project showcases my **advanced Power BI skills**, covering the full workfl
 
 ## 📄 Project File  
 
-👉 [Click here to view/download the Excel Dashboard](https://github.com/Divit-Lamba/Power-BI-Project/blob/main/Power%20BI%20Project.pbix)
+👉 [Click here to view/download the Power BI Dashboard](https://github.com/Divit-Lamba/Power-BI-Project/blob/main/Power%20BI%20Project.pbix)
